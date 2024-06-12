@@ -1,4 +1,4 @@
-export const apiKey = "2ae7404a6dd04b94a36120340240605"
+export const apiKey = APIKEY
 
 export const weatherImages = {
     "Partly cloudy" : require("../assets/partlycloudy.png"),
